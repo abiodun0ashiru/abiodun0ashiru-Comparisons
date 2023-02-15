@@ -23,7 +23,7 @@ public class ComparatorsTest {
     }
 
     /**
-     * If isEqual is passed two numbers that are not equal, isEqual should return false.
+     ** If isEqual is passed two numbers that are not equal, isEqual should return false.
      */
     @Test
     public void isEqualTest2(){
